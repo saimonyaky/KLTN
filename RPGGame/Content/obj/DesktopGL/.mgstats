@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/Game/RPGGame/RPGGame/Content/fonts/Aoboshi_One.fnt","E:\Game\RPGGame\RPGGame\Content\bin\DesktopGL\fonts/Aoboshi_One.fnt","CopyItem","File",11025,11025,0,0039168
+"E:/Game/RPGGame/RPGGame/Content/fonts/AoboshiOne-Regular_5x.spritefont","E:/Game/RPGGame/RPGGame/Content/bin/DesktopGL/fonts/AoboshiOne-Regular_5x.xnb","FontDescriptionProcessor","SpriteFontContent",2087,1053721,0,2914121
+"E:/Game/RPGGame/RPGGame/Content/fonts/AoboshiOne-Regular.spritefont","E:/Game/RPGGame/RPGGame/Content/bin/DesktopGL/fonts/AoboshiOne-Regular.xnb","FontDescriptionProcessor","SpriteFontContent",2087,37913,0,0372858
+"E:/Game/RPGGame/RPGGame/Content/images/Aoboshi_One.png","E:/Game/RPGGame/RPGGame/Content/bin/DesktopGL/images/Aoboshi_One.xnb","TextureProcessor","Texture2DContent",13954,1048661,0,0407761
+"E:/Game/RPGGame/RPGGame/Content/images/atlas-definition.xml","E:\Game\RPGGame\RPGGame\Content\bin\DesktopGL\images/atlas-definition.xml","CopyItem","File",2349,2349,0,0009695
+"E:/Game/RPGGame/RPGGame/Content/images/atlas.png","E:/Game/RPGGame/RPGGame/Content/bin/DesktopGL/images/atlas.xnb","TextureProcessor","Texture2DContent",86267,3923221,0,1073054
+"E:/Game/RPGGame/RPGGame/Content/images/background-title.png","E:/Game/RPGGame/RPGGame/Content/bin/DesktopGL/images/background-title.xnb","TextureProcessor","Texture2DContent",633375,10140085,0,2685472
+"E:/Game/RPGGame/RPGGame/Content/images/BACKGROUND.png","E:/Game/RPGGame/RPGGame/Content/bin/DesktopGL/images/BACKGROUND.xnb","TextureProcessor","Texture2DContent",3226,589909,0,0236176
+"E:/Game/RPGGame/RPGGame/Content/images/tilemap-definition.xml","E:\Game\RPGGame\RPGGame\Content\bin\DesktopGL\images/tilemap-definition.xml","CopyItem","File",3244,3244,0,0009526
+"E:/Game/RPGGame/RPGGame/Content/images/WOODS-Fourth.png","E:/Game/RPGGame/RPGGame/Content/bin/DesktopGL/images/WOODS-Fourth.xnb","TextureProcessor","Texture2DContent",11905,589909,0,0190547
+"E:/Game/RPGGame/RPGGame/Content/images/WOODS-Third.png","E:/Game/RPGGame/RPGGame/Content/bin/DesktopGL/images/WOODS-Third.xnb","TextureProcessor","Texture2DContent",17269,589909,0,0247588

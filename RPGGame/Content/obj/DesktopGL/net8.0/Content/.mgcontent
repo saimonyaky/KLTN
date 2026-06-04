@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Game/RPGGame/RPGGame/Content/audio/boss-theme.mp3</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/audio/bounce.wav</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/audio/theme.mp3</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/fonts/AoboshiOne-Regular_5x.spritefont</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/fonts/AoboshiOne-Regular.spritefont</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/Aoboshi_One.png</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/atlas.png</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/background-title.png</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/BACKGROUND.png</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/BUSH-BACKGROUND.png</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/VINES-Second.png</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/WOODS-First.png</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/WOODS-Fourth.png</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/WOODS-Second.png</File>
+    <File>E:/Game/RPGGame/RPGGame/Content/images/WOODS-Third.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,12 @@
+E:\Game\RPGGame\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.AssemblyReference.cache
+E:\Game\RPGGame\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Game\RPGGame\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfoInputs.cache
+E:\Game\RPGGame\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfo.cs
+E:\Game\RPGGame\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+E:\Game\RPGGame\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.deps.json
+E:\Game\RPGGame\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.dll
+E:\Game\RPGGame\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.pdb
+E:\Game\RPGGame\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.dll
+E:\Game\RPGGame\MonoGameLibrary\obj\Debug\net8.0\refint\MonoGameLibrary.dll
+E:\Game\RPGGame\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.pdb
+E:\Game\RPGGame\MonoGameLibrary\obj\Debug\net8.0\ref\MonoGameLibrary.dll

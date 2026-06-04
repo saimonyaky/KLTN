@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/Game/RPGGame/RPGGame/Content/fonts/AoboshiOne-Regular_5x.spritefont</SourceFile>
+  <SourceTime>2025-10-09T11:12:51.2719726+07:00</SourceTime>
+  <DestFile>E:/Game/RPGGame/RPGGame/Content/bin/DesktopGL/fonts/AoboshiOne-Regular_5x.xnb</DestFile>
+  <DestTime>2025-12-18T14:22:56.5173087+07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T17:31:02+07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T17:31:02+07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

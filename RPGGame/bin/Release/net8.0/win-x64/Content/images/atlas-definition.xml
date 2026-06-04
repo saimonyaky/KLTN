@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+	<Texture>images/atlas</Texture>
+	<Regions>
+		<Region name="player-idle" x="0" y="0" width="504" height="44" />
+		<Region name="player-run" x="0" y="45" width="672" height="44" />
+		<Region name="player-jump" x="0" y="89" width="252" height="44" />
+		<Region name="player-fall" x="421" y="89" width="252" height="44" />
+		<Region name="player-dash" x="0" y="133" width="420" height="44" />
+		<Region name="player-attack" x="0" y="177" width="672" height="44" />
+		<Region name="player-hurt" x="0" y="221" width="336" height="44" />
+		<Region name="NPC-idle" x="528" y="320" width="140" height="48" />
+		<Region name="bandit-idle" x="0" y="650" width="192" height="48" />
+		<Region name="bandit-run" x="0" y="699" width="384" height="48" />
+		<Region name="bandit-attack" x="0" y="747" width="384" height="48" />
+		<Region name="bandit-hurt" x="0" y="843" width="96" height="48" />
+		<Region name="bandit-die" x="97" y="843" width="96" height="48" />
+		<Region name="button" x="513" y="652" width="48" height="48" />
+		<Region name="focused-button" x="562" y="652" width="48" height="48" />
+		<Region name="panel-background" x="513" y="701" width="48" height="48" />
+		<Region name="slider-middle-background" x="513" y="799" width="48" height="48" />
+		<Region name="divider-fade" x="513" y="539" width="96" height="10" />
+		<Region name="speech-bubble" x="562" y="701" width="48" height="48" />
+		<Region name="heart" x="0" y="912" width="64" height="64" />
+		<Region name="broken-heart" x="64" y="912" width="64" height="64" />
+		<Region name="coin" x="128" y="912" width="64" height="64" />
+		<Region name="flask" x="192" y="912" width="64" height="64" />
+		<Region name="trap" x="512" y="608" width="32" height="32" />
+		<Region name="potion" x="544" y="608" width="32" height="32" />
+		<Region name="boss-idle" x="0" y="976" width="512" height="64" />
+		<Region name="boss-walk" x="512" y="976" width="512" height="64" />
+		<Region name="boss-attack" x="0" y="1040" width="1040" height="192" />
+		<Region name="boss-hurt" x="0" y="1232" width="144" height="64" />
+		<Region name="boss-die" x="144" y="1232" width="576" height="64" />
+	</Regions>
+	<Animations>
+		<Animation name="idle" region="player-idle" delay="200" frameWidth="84" frameHeight="44" frameCount="6" />
+		<Animation name="run" region="player-run" delay="100" frameWidth="84" frameHeight="44" frameCount="8" />
+		<Animation name="jump" region="player-jump" delay="200" frameWidth="84" frameHeight="44" frameCount="3" />
+		<Animation name="fall" region="player-fall" delay="200" frameWidth="84" frameHeight="44" frameCount="3" />
+		<Animation name="dash" region="player-dash" delay="200" frameWidth="84" frameHeight="44" frameCount="5" />
+		<Animation name="attack" region="player-attack" delay="100" frameWidth="84" frameHeight="44" frameCount="8" forgeFinish="false"/>
+		<Animation name="hurt" region="player-hurt" delay="100" frameWidth="84" frameHeight="44" frameCount="4"/>
+		<Animation name="NPC-idle" region="NPC-idle" delay="200" frameWidth="28" frameHeight="48" frameCount="5"/>
+		<Animation name="bandit-idle" region="bandit-idle" delay="400" frameWidth="48" frameHeight="48" frameCount="4" />
+		<Animation name="bandit-run" region="bandit-run" delay="200" frameWidth="48" frameHeight="48" frameCount="8" />
+		<Animation name="bandit-attack" region="bandit-attack" delay="200" frameWidth="48" frameHeight="48" frameCount="8" />
+		<Animation name="bandit-hurt" region="bandit-hurt" delay="400" frameWidth="48" frameHeight="48" frameCount="2" />
+		<Animation name="bandit-die" region="bandit-die" delay="400" frameWidth="48" frameHeight="48" frameCount="2" />
+		<Animation name="boss-idle" region="boss-idle" delay="200" frameWidth="64" frameHeight="64" frameCount="8" />
+		<Animation name="boss-walk" region="boss-walk" delay="200" frameWidth="64" frameHeight="64" frameCount="8" />
+		<Animation name="boss-attack" region="boss-attack" delay="200" frameWidth="208" frameHeight="96" frameCount="10" />
+		<Animation name="boss-hurt" region="boss-hurt" delay="200" frameWidth="48" frameHeight="64" frameCount="3" />
+		<Animation name="boss-die" region="boss-die" delay="200" frameWidth="64" frameHeight="64" frameCount="9" />
+	</Animations>
+</TextureAtlas>

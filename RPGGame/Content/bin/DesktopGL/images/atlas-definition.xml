@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+	<Texture>images/atlas</Texture>
+	<Regions>
+		<Region name="player-idle" x="0" y="0" width="504" height="44" />
+		<Region name="player-run" x="0" y="45" width="672" height="44" />
+		<Region name="player-jump" x="0" y="89" width="252" height="44" />
+		<Region name="player-fall" x="421" y="89" width="252" height="44" />
+		<Region name="player-dash" x="0" y="133" width="420" height="44" />
+		<Region name="player-attack" x="0" y="177" width="1008" height="44" />
+		<Region name="bandit-idle" x="0" y="650" width="192" height="48" />
+		<Region name="bandit-run" x="0" y="698" width="384" height="48" />
+		<Region name="bandit-attack" x="0" y="746" width="384" height="48" />
+		<Region name="focused-button" x="513" y="652" width="48" height="48" />
+		<Region name="panel-background" x="0" y="343" width="48" height="48" />
+		<Region name="slider-middle-background" x="513" y="799" width="48" height="48" />
+		<Region name="divider-fade" x="513" y="539" width="96" height="10" />
+		<Region name="heart" x="0" y="912" width="64" height="64" />
+		<Region name="broken-heart" x="64" y="912" width="64" height="64" />
+		<Region name="coin" x="128" y="912" width="64" height="64" />
+	</Regions>
+	<Animations>
+		<Animation name="idle" region="player-idle" delay="200" frameWidth="84" frameHeight="44" frameCount="6" />
+		<Animation name="run" region="player-run" delay="200" frameWidth="84" frameHeight="44" frameCount="8" />
+		<Animation name="jump" region="player-jump" delay="200" frameWidth="84" frameHeight="44" frameCount="3" />
+		<Animation name="fall" region="player-fall" delay="200" frameWidth="84" frameHeight="44" frameCount="3" />
+		<Animation name="dash" region="player-dash" delay="200" frameWidth="84" frameHeight="44" frameCount="5" />
+		<Animation name="attack" region="player-attack" delay="100" frameWidth="84" frameHeight="44" frameCount="12" forgeFinish="false"/>
+		<Animation name="bandit-idle" region="bandit-idle" delay="400" frameWidth="48" frameHeight="48" frameCount="4" />
+		<Animation name="bandit-run" region="bandit-run" delay="200" frameWidth="48" frameHeight="48" frameCount="8" />
+		<Animation name="bandit-attack" region="bandit-attack" delay="100" frameWidth="48" frameHeight="48" frameCount="8" />
+	</Animations>
+</TextureAtlas>
