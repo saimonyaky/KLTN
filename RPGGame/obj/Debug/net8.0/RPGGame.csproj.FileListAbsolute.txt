@@ -61,3 +61,4 @@ E:\Game\RPGGame\RPGGame\bin\Debug\net8.0\Content\audio\theme.xnb
 E:\Game\RPGGame\RPGGame\bin\Debug\net8.0\Content\audio\bounce.xnb
 E:\Game\RPGGame\RPGGame\bin\Debug\net8.0\Content\audio\boss-theme.ogg
 E:\Game\RPGGame\RPGGame\bin\Debug\net8.0\Content\audio\boss-theme.xnb
+E:\Game\RPGGame\RPGGame\obj\Debug\net8.0\RPGGame.sourcelink.json
